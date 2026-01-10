@@ -1,0 +1,31 @@
+﻿id_cliente,idade,gênero,tipo_serviço,valor_atendimento,data_atendimento,feedback
+1,58,Feminino,Terapia Integrativa - Casal,141.15,2025-06-07,Ambiente tranquilo e energia positiva
+2,62,Feminino,Terapia Integrativa - Online,204.24,2025-03-18,"Ótimo custo-benefício, recomendo!"
+3,28,Feminino,Terapia Integrativa - Casal,169.33,2025-09-08,Me senti ouvido e compreendido
+4,21,Masculino,Terapia Integrativa - Individual,226.83,2025-06-13,Ambiente tranquilo e energia positiva
+5,22,Masculino,Terapia Integrativa - Individual,238.71,2025-06-07,Resultados transformadores desde a primeira sessão
+6,43,Feminino,Terapia Integrativa - Online,179.65,2025-05-05,"Ótimo custo-benefício, recomendo!"
+7,65,Feminino,Terapia Integrativa - Online,190.07,2025-07-19,Voltarei com certeza
+8,41,Masculino,Terapia Integrativa - Individual,249.65,2025-03-17,Resultados transformadores desde a primeira sessão
+9,23,Masculino,Terapia Integrativa - Individual,231.94,2025-03-21,Profissional muito atenciosa e competente
+10,61,Feminino,Terapia Integrativa - Casal,197.53,2025-07-13,Espaço que transmite paz e confiança
+11,47,Feminino,Terapia Integrativa - Online,152.68,2025-09-28,Excelente atendimento e ambiente acolhedor
+12,61,Masculino,Terapia Integrativa - Online,134.89,2025-09-25,Ambiente tranquilo e energia positiva
+13,59,Masculino,Terapia Integrativa - Casal,134.5,2025-07-06,Resultados transformadores desde a primeira sessão
+14,18,Masculino,Terapia Integrativa - Online,233.86,2025-05-17,Profissional muito atenciosa e competente
+15,50,Feminino,Terapia Integrativa - Individual,233.17,2025-05-27,A experiência foi única e enriquecedora
+16,56,Masculino,Terapia Integrativa - Individual,139.87,2025-03-18,A experiência foi única e enriquecedora
+17,18,Masculino,Terapia Integrativa - Online,162.14,2025-01-04,Me senti ouvido e compreendido
+18,37,Feminino,Terapia Integrativa - Individual,127.53,2025-02-03,Resultados transformadores desde a primeira sessão
+19,22,Não-binário,Terapia Integrativa - Online,219.56,2025-03-22,Resultados transformadores desde a primeira sessão
+20,53,Feminino,Terapia Integrativa - Individual,154.46,2025-07-07,A experiência foi única e enriquecedora
+21,64,Feminino,Terapia Integrativa - Online,146.15,2025-05-13,Me senti ouvido e compreendido
+22,46,Feminino,Terapia Integrativa - Online,178.69,2025-04-08,Senti muita melhora nas sessões
+23,39,Masculino,Terapia Integrativa - Individual,196.48,2025-04-19,"Ótimo custo-benefício, recomendo!"
+24,18,Masculino,Terapia Integrativa - Individual,212.02,2025-01-08,Senti muita melhora nas sessões
+25,20,Masculino,Terapia Integrativa - Casal,129.21,2025-04-09,Resultados transformadores desde a primeira sessão
+26,31,Feminino,Terapia Integrativa - Online,137.2,2025-08-08,Resultados transformadores desde a primeira sessão
+27,44,Feminino,Terapia Integrativa - Individual,132.26,2025-07-12,Voltarei com certeza
+28,44,Outro,Terapia Integrativa - Casal,232.3,2025-01-22,Senti muita melhora nas sessões
+29,21,Feminino,Terapia Integrativa - Casal,214.67,2025-02-08,"Ótimo custo-benefício, recomendo!"
+30,30,Não-binário,Terapia Integrativa - Online,178.32,2025-07-06,Ambiente tranquilo e energia positiva
